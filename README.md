@@ -21,7 +21,7 @@ Però el que la gent no sap és que aquest passatemps també es pot fer en ASCII
     sit amet et odio. Interdum.
 
 
-S’ha de trobar la paraula envoltada amb algun dels separadors estàndards punt, coma o espais:
+S’ha de trobar la paraula envoltada amb algun dels separadors estàndards: punt, coma o espais:
 
 * “ Wally.”, “.Wally “, “.Wally,” → OK
 * “ Wallypop”, “-Wally “, “WallyWally” → NO

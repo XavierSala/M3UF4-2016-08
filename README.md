@@ -1,3 +1,5 @@
+#FpExperiencies #DawMp03Uf05 #DawMp03Uf03 #Programació
+
 On és en Wally?
 =========================
 Tothom ha sentit a parlar del passatemps conegut com “On és en Wally?” que consisteix en localitzar en Wally en un dibuix
